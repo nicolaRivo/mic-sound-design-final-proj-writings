@@ -1,0 +1,31 @@
+**24 06 24**
+Today I emailed my program leader with the draft of my final project concept, which at this time is the following:
+
+> The idea I want to pursue for my final project is a structural and timbral analysis of a selection of musical tracks through the aid of graphic scores and spectrograms. I am thinking about titling it "Flat Sounds: Building Maps to Navigate Structure, Pattern, and Timbre."
+ >
+>During your Soundtracks for Screen module, you had us produce a visual score for a snippet of a soundtrack, and I found that practice to be a very powerful and creative way to learn valuable lessons from a piece of audio. These lessons would otherwise be quite difficult to grasp if experienced only through aural appreciation. This is the graphical score I produced for that exam. I would like to use a similar approach to investigate the elements of a sonic composition that tend to be more elusive to the ear of an aural-trained musician like myself.
+> 
+> ![Image](blob:https://stackedit.io/1776a279-35c0-4b6f-9e7e-a88735780bc6)
+>  To do this, I aim to choose 10-15 tracks from various genres that have relevant structures and rely on pattern creation/dissolution and interesting timbral/sound design elements. For each track, I will use the spectrogram as the basis of my map and will trace and draw on top of those with an attempt to create a consistent color/shape code to point out relevant characteristics. I will then trace analogies and differences between the chosen pieces and draw conclusions on how similarities and anomalies contribute to the success of each piece.
+> 
+> In my analysis, I will try to avoid as much as possible any traditional tonal music theory considerations (tonal harmony, diatonic/chromatic scale melodies), as I find these features to be quite obvious to my ear. Instead, I will dig deep into the analysis of timbral composition (frequency spectrum analysis), micro and macro structural elements (repeated patterns, breaking of patterns, dynamic movement), and spatial elements (use of fore, mid, and background, use of the stereo field).
+> 
+> These are some of the tracks I have in mind at this stage:
+> 
+> -   "Oo Licky" - Matthew Herbert
+> -   “DARE” - Gorillaz
+> -   “Workingonit” - J Dilla
+> -   “An Eagle In Your Mind” - Boards of Canada
+> -   “I swear, I Really Wanted To Make a "Rap" Album But This Is Literally The Way The Wind Blew Me This Time” - Andre 3000
+> -   “One of These Days” - Pink Floyd
+> 
+> The idea is to produce this project as a potential book. If time allows, I might investigate typographic elements in order to make it  a potential physical product.
+
+**26 06 24**
+
+Started finding publications and academic articles that would guide my initial idea. Reinstalled Zotero an linked it with Safari. this is the list of books and publications I have selected at this stage of the progress:
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwMDE3MzQ0NjldfQ==
+-->
