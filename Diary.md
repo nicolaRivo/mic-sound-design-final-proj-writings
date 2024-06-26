@@ -26,6 +26,31 @@ Today I emailed my program leader with the draft of my final project concept, wh
 Started finding publications and academic articles that would guide my initial idea. Reinstalled Zotero an linked it with Safari. this is the list of books and publications I have selected at this stage of the progress:
 
 
+*1. A graphic score for any musicians or non-musicians.pdf
+2. A guide to the graphic score project.pdf
+3. A model for rhythm and timbre similarity in electronic dance music.pdf
+4. Audio Culture - Readings in modern music.pdf
+5. Conceptualizing music.pdf
+6. Graphic notation - the simple sketch and beyond.pdf
+7. Introduction To Graphic Scores.pdf
+8. Music Structure Analysis from Acoustic Signals.pdf
+9. Music Structure Analysis.pdf
+10. Natural Highs - Timbre and Chills in Electronic Dance Music.pdf
+11. Popular Music Studies Today.pdf
+12. Review - Unlocking the Groove - Rhythm, Meter, and Musical Design in Electronic Dance Music.pdf
+13. Signal Processing for Music Analysis.pdf
+14. Sonic Visualiser - Visualisation, Analysis, and Annotation of Music Audio Recordings..pdf
+15. State of the Art Report - Audio-Based Music Structure Analysis.pdf
+16. The Cultural Significance of Timbre Analysis.pdf
+17. Timbre and Affect in Electronic Dance Music Discourse.pdf
+18. Timbre and the “Zone of Entanglement” in Electronic Dance Music Re-Thinking Musico-Social Ontologies with the Mycelial Turn.pdf
+19. Tuning-in to the Beat - Aesthetic Appreciation of Musical Rhythms Correlates with a Premotor Activity Boost.pdf
+20. Undercurrents - The Hidden Wiring of Modern Music.pdf 
+21. Unlocking the Groove - Rhythm, Meter, and Musical Design in Electronic Dance Music.pdf*
+
+I will read one of this per day and write a paragraph on what his brings towards my final project.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDE3MzQ0NjldfQ==
+eyJoaXN0b3J5IjpbOTY0NTAzODI4XX0=
 -->
