@@ -1,4 +1,6 @@
-**24 06 24**
+# FINAL PROJECT DIARY
+
+## 24 · 06 · 24
 Today I emailed my program leader with the draft of my final project concept, which at this time is the following:
 
 > The idea I want to pursue for my final project is a structural and timbral analysis of a selection of musical tracks through the aid of graphic scores and spectrograms. I am thinking about titling it "Flat Sounds: Building Maps to Navigate Structure, Pattern, and Timbre."
@@ -21,36 +23,46 @@ Today I emailed my program leader with the draft of my final project concept, wh
 > 
 > The idea is to produce this project as a potential book. If time allows, I might investigate typographic elements in order to make it  a potential physical product.
 
-**26 06 24**
+## 26 · 06 · 24
 
 Started finding publications and academic articles that would guide my initial idea. Reinstalled Zotero an linked it with Safari. this is the list of books and publications I have selected at this stage of the progress:
 
 
-*1. A graphic score for any musicians or non-musicians.pdf
-2. A guide to the graphic score project.pdf
-3. A model for rhythm and timbre similarity in electronic dance music.pdf
-4. Audio Culture - Readings in modern music.pdf
-5. Conceptualizing music.pdf
-6. Graphic notation - the simple sketch and beyond.pdf
-7. Introduction To Graphic Scores.pdf
-8. Music Structure Analysis from Acoustic Signals.pdf
-9. Music Structure Analysis.pdf
-10. Natural Highs - Timbre and Chills in Electronic Dance Music.pdf
-11. Popular Music Studies Today.pdf
-12. Review - Unlocking the Groove - Rhythm, Meter, and Musical Design in Electronic Dance Music.pdf
-13. Signal Processing for Music Analysis.pdf
-14. Sonic Visualiser - Visualisation, Analysis, and Annotation of Music Audio Recordings..pdf
-15. State of the Art Report - Audio-Based Music Structure Analysis.pdf
-16. The Cultural Significance of Timbre Analysis.pdf
-17. Timbre and Affect in Electronic Dance Music Discourse.pdf
-18. Timbre and the “Zone of Entanglement” in Electronic Dance Music Re-Thinking Musico-Social Ontologies with the Mycelial Turn.pdf
-19. Tuning-in to the Beat - Aesthetic Appreciation of Musical Rhythms Correlates with a Premotor Activity Boost.pdf
-20. Undercurrents - The Hidden Wiring of Modern Music.pdf 
-21. Unlocking the Groove - Rhythm, Meter, and Musical Design in Electronic Dance Music.pdf*
+	1. A graphic score for any musicians or non-musicians.pdf
+	2. A guide to the graphic score project.pdf
+	3. A model for rhythm and timbre similarity in electronic dance music.pdf
+	4. Audio Culture - Readings in modern music.pdf
+	5. Conceptualizing music.pdf
+	6. Graphic notation - the simple sketch and beyond.pdf
+	7. Introduction To Graphic Scores.pdf
+	8. Music Structure Analysis from Acoustic Signals.pdf
+	9. Music Structure Analysis.pdf
+	10. Natural Highs - Timbre and Chills in Electronic Dance Music.pdf
+	11. Popular Music Studies Today.pdf
+	12. Review - Unlocking the Groove - Rhythm, Meter, and Musical Design in Electronic Dance Music.pdf
+	13. Signal Processing for Music Analysis.pdf
+	14. Sonic Visualiser - Visualisation, Analysis, and Annotation of Music Audio Recordings..pdf
+	15. State of the Art Report - Audio-Based Music Structure Analysis.pdf
+	16. The Cultural Significance of Timbre Analysis.pdf
+	17. Timbre and Affect in Electronic Dance Music Discourse.pdf
+	18. Timbre and the “Zone of Entanglement” in Electronic Dance Music Re-Thinking Musico-Social Ontologies with the Mycelial Turn.pdf
+	19. Tuning-in to the Beat - Aesthetic Appreciation of Musical Rhythms Correlates with a Premotor Activity Boost.pdf
+	20. Undercurrents - The Hidden Wiring of Modern Music.pdf 
+	21. Unlocking the Groove - Rhythm, Meter, and Musical Design in Electronic Dance Music.pdf
 
 I will read one of this per day and write a paragraph on what his brings towards my final project.
 
+## 27 · 06 · 24
+
+reading through the first article – *A model for rhythm and timbre similarity in electronic dance music*, which focuses on the timbric and rhythmic patterns in EDM.
+>Timbre and rhythm in EDM are often more important than melody and harmony (Reynolds, 2012)
+
+That's a good point for continuing investigating in genres that develop from an EDM background
+
+> A structural change in EDM is defined by the characteristic evolution of timbre and rhythm as opposed to a verse–chorus relation common in pop or folk music. Because an EDM track may exhibit several structural changes, similarity must be defined on the level of individual music segments.
+
+It's interesting to see how these changes in EDM graphically develop as opposed to more rock/pop pieces.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY0NTAzODI4XX0=
+eyJoaXN0b3J5IjpbLTE3MTkyNDk1MjhdfQ==
 -->
