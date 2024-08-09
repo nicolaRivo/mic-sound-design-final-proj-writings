@@ -66,7 +66,7 @@ It's interesting to see how these changes in EDM graphically develop as opposed 
 ## 09 · 08 · 24
 I didn't actually write much in this diary for the past month but I have been going forward with my analysis of music that spans different genres.
 
-I have decided to avoid relying on  
+I have decided to avoid relying on complex sound visualisation apps such as *Sonic Visualiser* for two main reasons: Firstly, Sonic Visualiser allows you to see the graphs and playback the music 
 I have managed to put together a few scripts that produce some interesting graphs starting from my songs of choice.
 The graphs that seem more interesting for my purposes are the following:
 
@@ -77,5 +77,6 @@ The graphs that seem more interesting for my purposes are the following:
  **Mel Spectrogram** 
 This can be a very useful tool in understanding how a piece of music changes over time in detail as it holds information on the amount of energy of a section (the brighter the louder), the ratio tonal/rhythmic content as its very easy to visually distinguish between tonal information (horizontal lines with overlapping harmonics) and rhythmic information (vertical lines that span the whole harmonic range). By studying this kind of graph applied to different pieces  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzU3MTY3NCwtMTcxOTI0OTUyOF19
+eyJoaXN0b3J5IjpbLTE5MTIyMTA5MjQsLTE3MTkyNDk1MjhdfQ
+==
 -->
