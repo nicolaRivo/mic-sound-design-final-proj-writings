@@ -67,7 +67,10 @@ It's interesting to see how these changes in EDM graphically develop as opposed 
 I didn't actually write much in this diary for the past month but I have been going forward with my analysis of music that spans different genres.
 
 here below are some paragraphs that could be used in the dissertation write up
+**The Quotes**
 
+> "I am a Tralfamadorian, seeing all time as you might see a stretch of the Rocky Mountains. All time is all time. It does not change. It does not lend itself to warnings or explanations. It simply *is*."
+*Kurt Vonnegut, Slaughterhouse V*
 **The Question**
 after my conversation with Elaine Cheng, I was asked to communicate what was the reason I was writing a dissertation on this topic. My answer, which was valued quite on point with the brief of this project was the following:
 
@@ -85,5 +88,6 @@ For the time being, the graphs that seem more interesting for my purposes are th
  **Mel Spectrogram** 
 This can be a very useful tool in understanding how a piece of music changes over time in detail as it holds information on the amount of energy of a section (the brighter the louder), the ratio tonal/rhythmic content as its very easy to visually distinguish between tonal information (horizontal lines with overlapping harmonics) and rhythmic information (vertical lines that span the whole harmonic range). By studying this kind of graph applied to different pieces I could get an understanding on how different musical events look on a spectrogram and use a random one as a map for an original creation, whiteout being influenced by the precise harmonic and melodic qualities that I am actively trying to avoid
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDE5ODU1OCwtMTcxOTI0OTUyOF19
+eyJoaXN0b3J5IjpbLTUzNDA4NzMwNCwtNjA0MTk4NTU4LC0xNz
+E5MjQ5NTI4XX0=
 -->
