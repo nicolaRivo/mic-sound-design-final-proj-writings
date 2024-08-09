@@ -64,8 +64,15 @@ That's a good point for continuing investigating in genres that develop from an 
 It's interesting to see how these changes in EDM graphically develop as opposed to more rock/pop pieces.
 
 ## 09 · 08 · 24
-I didn't actually write much in this diary for the past month but I have been going for
+I didn't actually write much in this diary for the past month but I have been going forward with my analysis of music that spans different genres.
+I have managed to put together a few scripts that produce some interesting graphs starting from my songs of choice.
+The graphs that seem more interesting for my purposes are the following:
+Mel Spectrogram
+Chroma
+Self simila
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODc4NzA1OCwtMTcxOTI0OTUyOF19
+eyJoaXN0b3J5IjpbLTE0MzM2NDc0NzAsLTE3MTkyNDk1MjhdfQ
+==
 -->
