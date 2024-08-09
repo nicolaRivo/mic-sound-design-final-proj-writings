@@ -66,6 +66,11 @@ It's interesting to see how these changes in EDM graphically develop as opposed 
 ## 09 · 08 · 24
 I didn't actually write much in this diary for the past month but I have been going forward with my analysis of music that spans different genres.
 
+here below are some paragraphs that could be used in the dissertation write up
+
+**The Question**
+after my conversation with Elaine Cheng, I was asked to communicate what was the reason I was 
+**The Analytical Process**
 I have decided to avoid relying on complex sound visualisation apps such as *Sonic Visualiser* for two main reasons: Firstly, Sonic Visualiser allows you to see the graphs and playback the music with a playhead dynamic and I wanted to start to disassociate the sound to the image as soon as I could to be able to appreciate the visual cues in isolation and get ahead with noticing details on such graphs without necessarily knowing how they relate with the piece of music. Secondly, these apps run quite slowly and my computer CPU limitations only allow me to examine one or two songs at the time while I liked the possibility of scrolling though multiple graphs at the same time and be able to do a quick comparison between a multitude of different songs. I could have still used the apps to print out the graphs for the selected songs, but I have instead decided to go through the adventure of coding myself (with the precious aid of Chat GPT scripting superpowers) scripts that would output the needed graphs. This initially more time consuming approach revealed to be really valuable as it forced me to get a deeper understanding of the nature of these graphs, as well as of the *librosa* Python library, with which I feel I have now reached a satisfying level of confidence. Moreover through this approach I have ended up with a good collection of self made tools for batch music processing and could potentially now chose hundreds of pieces of music and batch extrapolate all the graphs of interest whilst engaging in more interesting tasks.
 
 
@@ -76,7 +81,7 @@ For the time being, the graphs that seem more interesting for my purposes are th
  - Self similarity Matrix
 
  **Mel Spectrogram** 
-This can be a very useful tool in understanding how a piece of music changes over time in detail as it holds information on the amount of energy of a section (the brighter the louder), the ratio tonal/rhythmic content as its very easy to visually distinguish between tonal information (horizontal lines with overlapping harmonics) and rhythmic information (vertical lines that span the whole harmonic range). By studying this kind of graph applied to different pieces I could get an understanding on how different musical events look on a spectrogram and use a random one as a map for an original creation, whiteout being influenced by the precise harmonic and melodic qualities that I am 
+This can be a very useful tool in understanding how a piece of music changes over time in detail as it holds information on the amount of energy of a section (the brighter the louder), the ratio tonal/rhythmic content as its very easy to visually distinguish between tonal information (horizontal lines with overlapping harmonics) and rhythmic information (vertical lines that span the whole harmonic range). By studying this kind of graph applied to different pieces I could get an understanding on how different musical events look on a spectrogram and use a random one as a map for an original creation, whiteout being influenced by the precise harmonic and melodic qualities that I am actively trying to avoid
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTU2NTg2OCwtMTcxOTI0OTUyOF19
+eyJoaXN0b3J5IjpbMTc3NzAxODc1NiwtMTcxOTI0OTUyOF19
 -->
