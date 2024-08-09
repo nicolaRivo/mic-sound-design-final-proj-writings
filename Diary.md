@@ -97,12 +97,12 @@ For the time being, the graphs that seem more interesting for my purposes are th
 This can be a very useful tool in understanding how a piece of music changes over time in detail as it holds information on the amount of energy of a section (the brighter the louder), the ratio tonal/rhythmic content as its very easy to visually distinguish between tonal information (horizontal lines with overlapping harmonics) and rhythmic information (vertical lines that span the whole harmonic range). By studying this kind of graph applied to different pieces I could get an understanding on how different musical events look on a spectrogram and use a random one as a map for an original creation, whiteout being influenced by the precise harmonic and melodic qualities that I am actively trying to avoid.
 
 ** Chroma **
-My experience in tonal music was certainly tickled by the discovery of *chroma graphs*. Even though my initial statement was to try to keep as much distance as possible form tonal representation of sound, I was  excited by finally being able to fully understand the implications of 
+My experience in tonal music was certainly tickled by the discovery of *chroma graphs*. Even though my initial statement was to try to keep as much distance as possible form tonal representation of sound, I was  excited by finally being able to fully understand the implications of one of the products of my data collection.
 
 
 **Self similarity Matrix**
 My *** with *Self similarity Matrixes* has been a balance of excitement and disappointment. When I first stumbled upon the kaleidoscopic patterns of these representations I felt the excitement of finding the holy grail of my task, a precise visualisation of how the features of a song 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzc4NzAzMTcsMTU2OTkwMTcwMiwtNj
+eyJoaXN0b3J5IjpbLTEyMjg0NjYwOTAsMTU2OTkwMTcwMiwtNj
 A0MTk4NTU4LC0xNzE5MjQ5NTI4XX0=
 -->
