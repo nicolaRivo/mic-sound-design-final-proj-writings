@@ -73,8 +73,8 @@ The graphs that seem more interesting for my purposes are the following:
  - Self similarity Matrix
 
  **Mel Spectrogram** 
-this can be a very useful tool in understanding how a piece of music changes over time in detail as it holds information on the amount of energy of a section (the brighter the louder)
+This can be a very useful tool in understanding how a piece of music changes over time in detail as it holds information on the amount of energy of a section (the brighter the louder), the ratio tonal/rhythmic content as its very easy to visually distinguish between tonal information (horizontal lines with overlapping harmonics) and rhythmic information () 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTI4MDU5MjUsLTE3MTkyNDk1MjhdfQ
+eyJoaXN0b3J5IjpbLTEyNzY0NjE3ODksLTE3MTkyNDk1MjhdfQ
 ==
 -->
