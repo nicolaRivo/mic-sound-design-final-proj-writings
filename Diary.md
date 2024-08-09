@@ -103,6 +103,5 @@ My experience in tonal music was certainly tickled by the discovery of *chroma g
 **Self similarity Matrix**
 My *** with *Self similarity Matrixes* has been a balance of excitement and disappointment. When I first stumbled upon the kaleidoscopic patterns of these representations I felt the excitement of finding the holy grail of my task, a precise visualisation of how the features of a song 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjg0NjYwOTAsMTU2OTkwMTcwMiwtNj
-A0MTk4NTU4LC0xNzE5MjQ5NTI4XX0=
+eyJoaXN0b3J5IjpbLTEyMjg0NjYwOTBdfQ==
 -->
