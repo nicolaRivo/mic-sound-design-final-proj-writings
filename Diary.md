@@ -94,7 +94,7 @@ For the time being, the graphs that seem more interesting for my purposes are th
  - Self similarity Matrix
 
  **Mel Spectrogram** 
-As spectrograms were the first idea I had in my head of how music could be turned into an image, I wasn't surprised to know that these could be a very good tool to reach my dissertation's goal. Diving deeper into the subject though I discovered the beauty of Mel Spectrograms which use logarithmic scales to distribute the frequencies inThis can be a very useful tool in understanding how a piece of music changes over time in detail as it holds information on the amount of energy of a section (the brighter the louder), the ratio tonal/rhythmic content as its very easy to visually distinguish between tonal information (horizontal lines with overlapping harmonics) and rhythmic information (vertical lines that span the whole harmonic range). By studying this kind of graph applied to different pieces I could get an understanding on how different musical events look on a spectrogram and use a random one as a map for an original creation, whiteout being influenced by the precise harmonic and melodic qualities that I am actively trying to avoid.
+As spectrograms were the first idea I had in my head of how music could be turned into an image, I wasn't surprised to know that these could be a very good tool to reach my dissertation's goal. Diving deeper into the subject though I discovered the beauty of Mel Spectrograms which use logarithmic scales to distribute the frequencies in a This can be a very useful tool in understanding how a piece of music changes over time in detail as it holds information on the amount of energy of a section (the brighter the louder), the ratio tonal/rhythmic content as its very easy to visually distinguish between tonal information (horizontal lines with overlapping harmonics) and rhythmic information (vertical lines that span the whole harmonic range). By studying this kind of graph applied to different pieces I could get an understanding on how different musical events look on a spectrogram and use a random one as a map for an original creation, whiteout being influenced by the precise harmonic and melodic qualities that I am actively trying to avoid.
 
 **Chroma**
 My experience in tonal music was certainly tickled by the discovery of *chroma graphs*. Even though my initial statement was to try to keep as much distance as possible form tonal representation of sound, I was  excited by finally being able to fully understand the implications of one of the products of my data collection.
@@ -103,6 +103,5 @@ My experience in tonal music was certainly tickled by the discovery of *chroma g
 **Self similarity Matrix**
 My *** with *Self similarity Matrixes* has been a balance of excitement and disappointment. When I first stumbled upon the kaleidoscopic patterns of these representations I felt the excitement of finding the holy grail of my task, a precise visualisation of how the features of a song 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjAxMDU0ODcsLTE1Nzk4OTIzNTFdfQ
-==
+eyJoaXN0b3J5IjpbNDQxOTc1MzY4LC0xOTYwMTA1NDg3XX0=
 -->
