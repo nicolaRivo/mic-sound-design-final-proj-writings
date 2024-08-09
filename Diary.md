@@ -77,9 +77,11 @@ here below are some paragraphs that could be used in the dissertation write up
 **The Question**
 After my conversation with Elaine Cheng, I was asked to communicate what was the reason I was writing a dissertation on this topic. My answer, which was valued quite on point with the brief of this project was the following:
 
-As a trained Jazz pianist, I have no problem picking up musical qualities such as harmonies, melodies, grooves. 
+
+
+> As a trained Jazz pianist, I have no problem picking up musical qualities such as harmonies, melodies, grooves. 
 As a composer, I find that one of the most challenging parts of my craft, is dealing with long time structure for through-composed works and subtle changes in rhythmic patterns. How to properly juggle repetition, development and invention? How to keep a drum part fresh  whilst giving the listener a reassuringly predictable foundation?
-This works aims to devise a technique aimed to be able to instantaneously find inspiration for these on other people work, without being distracted by the aforementioned musical caracteristics
+This works aims to devise a technique aimed to be able to instantaneously find inspiration for filling my gaps  from the work of the masters, without being distracted by the aforementioned musical caracteristics that my mind naturally snaps to.
 
 **The Analytical Process**
 I have decided to avoid relying on complex sound visualisation apps such as *Sonic Visualiser* for two main reasons: Firstly, Sonic Visualiser allows you to see the graphs and playback the music with a playhead dynamic and I wanted to start to disassociate the sound to the image as soon as I could to be able to appreciate the visual cues in isolation and get ahead with noticing details on such graphs without necessarily knowing how they relate with the piece of music. Secondly, these apps run quite slowly and my computer CPU limitations only allow me to examine one or two songs at the time while I liked the possibility of scrolling though multiple graphs at the same time and be able to do a quick comparison between a multitude of different songs. I could have still used the apps to print out the graphs for the selected songs, but I have instead decided to go through the adventure of coding myself (with the precious aid of Chat GPT scripting superpowers) scripts that would output the needed graphs. This initially more time consuming approach revealed to be really valuable as it forced me to get a deeper understanding of the nature of these graphs, as well as of the *librosa* Python library, with which I feel I have now reached a satisfying level of confidence. Moreover through this approach I have ended up with a good collection of self made tools for batch music processing and could potentially now chose hundreds of pieces of music and batch extrapolate all the graphs of interest whilst engaging in more interesting tasks.
@@ -92,8 +94,11 @@ For the time being, the graphs that seem more interesting for my purposes are th
  - Self similarity Matrix
 
  **Mel Spectrogram** 
-This can be a very useful tool in understanding how a piece of music changes over time in detail as it holds information on the amount of energy of a section (the brighter the louder), the ratio tonal/rhythmic content as its very easy to visually distinguish between tonal information (horizontal lines with overlapping harmonics) and rhythmic information (vertical lines that span the whole harmonic range). By studying this kind of graph applied to different pieces I could get an understanding on how different musical events look on a spectrogram and use a random one as a map for an original creation, whiteout being influenced by the precise harmonic and melodic qualities that I am actively trying to avoid
+This can be a very useful tool in understanding how a piece of music changes over time in detail as it holds information on the amount of energy of a section (the brighter the louder), the ratio tonal/rhythmic content as its very easy to visually distinguish between tonal information (horizontal lines with overlapping harmonics) and rhythmic information (vertical lines that span the whole harmonic range). By studying this kind of graph applied to different pieces I could get an understanding on how different musical events look on a spectrogram and use a random one as a map for an original creation, whiteout being influenced by the precise harmonic and melodic qualities that I am actively trying to avoid.
+
+**Chroma**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2MjkzOTI5LDE1Njk5MDE3MDIsLTYwND
+eyJoaXN0b3J5IjpbNzM5NzkwOTYzLDE1Njk5MDE3MDIsLTYwND
 E5ODU1OCwtMTcxOTI0OTUyOF19
 -->
