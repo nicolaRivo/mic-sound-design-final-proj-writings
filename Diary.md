@@ -67,12 +67,14 @@ It's interesting to see how these changes in EDM graphically develop as opposed 
 I didn't actually write much in this diary for the past month but I have been going forward with my analysis of music that spans different genres.
 I have managed to put together a few scripts that produce some interesting graphs starting from my songs of choice.
 The graphs that seem more interesting for my purposes are the following:
-Mel Spectrogram
-Chroma
-Self simila
 
+ - Mel Spectrogram 
+ - Chroma 
+ - Self similarity Matrix
 
+ **Mel Spectrogram** 
+this can be a very useful tool in understanding how a piece of music changes over time in detail as it holds information on the amount of energy of a section (the brighter the louder)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzM2NDc0NzAsLTE3MTkyNDk1MjhdfQ
+eyJoaXN0b3J5IjpbLTE4OTI4MDU5MjUsLTE3MTkyNDk1MjhdfQ
 ==
 -->
