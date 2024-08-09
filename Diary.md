@@ -96,9 +96,9 @@ For the time being, the graphs that seem more interesting for my purposes are th
  **Mel Spectrogram** 
 This can be a very useful tool in understanding how a piece of music changes over time in detail as it holds information on the amount of energy of a section (the brighter the louder), the ratio tonal/rhythmic content as its very easy to visually distinguish between tonal information (horizontal lines with overlapping harmonics) and rhythmic information (vertical lines that span the whole harmonic range). By studying this kind of graph applied to different pieces I could get an understanding on how different musical events look on a spectrogram and use a random one as a map for an original creation, whiteout being influenced by the precise harmonic and melodic qualities that I am actively trying to avoid.
 
-**Chroma**
-My *** with *Chroma Graphs* has been a balance of excitement and disappointment. I have  
+**Self similarity Matrix**
+My *** with *Chroma Graphs* has been a balance of excitement and disappointment. when I learned about the existence of these 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2ODU4MjQxLDE1Njk5MDE3MDIsLTYwND
-E5ODU1OCwtMTcxOTI0OTUyOF19
+eyJoaXN0b3J5IjpbLTEzMzA0MDUzNiwxNTY5OTAxNzAyLC02MD
+QxOTg1NTgsLTE3MTkyNDk1MjhdfQ==
 -->
